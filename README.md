@@ -1,4 +1,6 @@
 # japaneasy
+An app that helps people learn basic Japanese, like numbers, colors, some phrases and family member names.
+It's a userfriendly tool that shows my ability to create engaging educational apps for language learning.
 
 A new Flutter project.
 
